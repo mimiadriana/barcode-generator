@@ -1,7 +1,7 @@
 The application is a console application that generates barcodes according to EAN13 international standard. 
 The code adds automatically "594", which is the EAN country code for Romania
 The application asks you to insert maximum 9 numbers for the barcode. If you insert less than 9 numbers, application will add "7", to reach the standard EAN barcode dimmension.
-If you insert a code that contains characters different from numbers, the message "Wrong code" will be generated.
+If you insert a code that contains characters different from numbers, or if you insert more than 9 numbers, the message "Wrong code" will be generated.
 After code generation, a file containing called "name".xml will be generated.
 This is the first app I made, feel free to bring any improvements.
 
