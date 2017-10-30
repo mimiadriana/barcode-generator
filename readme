@@ -1,0 +1,5 @@
+
+The application generates barcodes according to EAN13. The code adds automatically "594", which is the EAN country code for Romania
+After code generation, a file containing called "name".xml will be generated on partition.
+
+
