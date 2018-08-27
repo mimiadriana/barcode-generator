@@ -5,7 +5,7 @@ The application is a console application that generates barcodes according to EA
 •	If you insert a code that contains characters different from numbers, or if you insert more than 9 numbers, the message "Wrong code" will be generated.
 •	After code generation, a svg file containing the barcode, called "name".xml will be generated.
 
-This is the first app I made, feel free to bring any improvements.
+This project was prepared for University.
 
 
 
